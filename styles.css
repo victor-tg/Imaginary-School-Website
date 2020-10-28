@@ -1,0 +1,132 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+.applynow{
+    background-color: blue;
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    color: white;
+
+}
+
+.background-div{
+    background-color: #070D59;
+    margin: 0px;
+}
+body{
+    text-align: center;
+    background-color: #F6F5F5;
+    margin: auto;
+    font-family: sans-serif;
+}
+.centre{
+position: relative;
+margin: auto;
+background-image: url(school.jpg);
+background-repeat: no-repeat;
+background-color: black;
+background-size: cover;
+height: 600px;
+
+}
+.col1{
+    position: absolute;
+    left: 70px;
+    top: 20px;
+}
+.col2{
+    position: absolute;
+    left: 250px;
+    top: 20px;
+}
+.col3{
+    position: absolute;
+    left: 310px;
+    top: 20px;
+}
+.col4{
+    position: absolute;
+    left: 390px;
+    top: 20px;
+}
+.col5{
+    position: absolute;
+    left: 480px;
+    top: 20px;
+}
+.col6{
+    position: absolute;
+    left: 580px;
+    top: 20px;
+}
+.col7{
+    position: absolute;
+    left: 640px;
+    top: 20px;
+}
+.col8{
+    position: absolute;
+    left: 730px;
+    top: 20px;
+}
+.col9{
+    position: absolute;
+    left: 830px;
+    top: 20px;
+}
+.col10{
+    position: absolute;
+    left: 950px;
+    top: 20px;
+}
+div{
+    padding: 10px;
+    position: relative;
+    margin: 0px;
+}
+.font{
+    font-style: oblique;
+    color: #212121;
+    font-weight: normal;
+    font-family: 'Lobster Two', cursive;
+}
+.fontsize{
+    font-size: 50px;
+    color: #212121;
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 100px;
+}
+h1{
+    position: relative;
+    margin-top: 30px;
+}
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+}
+.paragraph3{
+    color: #212121;
+    font-family: 'Patrick Hand', cursive;
+}
+span{
+    margin: 10px;
+    color: white;
+}
+.top-image{
+    width: 100%;
+    padding: 0%;
+    height: 400px;
+    margin-top: 0px;
+    border: 0px;
+}
+.top-container{
+    margin: auto;
+}
+
